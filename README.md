@@ -2,11 +2,11 @@
 - 👀 I’m interested in making fun small games
 - 🌱 I’m currently learning python, why don't u try it aswell?
 
-  --Current Project in making
+  --Current Projects in making
   --
   
   --      Science Library(py.), with book lending, manager options, Subjects to view, and profile (user+password)
-  
+  --      Chinese OrderingGUI(py.), with GUI and login
                    
   
   
